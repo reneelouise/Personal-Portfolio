@@ -1,3 +1,4 @@
-# :wave: black-codher-practice-1
-My programming journey on Black CodHer bootcamp
+# :wave: Hey folks! 
+## Welcome to my programming journey on Black CodHer bootcamp
+
 
